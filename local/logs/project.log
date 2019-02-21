@@ -1,0 +1,274 @@
+2019-02-21T00:24:26.987Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-21T00:24:27.003Z - normal: checking language setting...
+2019-02-21T00:24:27.003Z - normal: Language: zh
+2019-02-21T00:24:29.554Z - success: protocol editor-framework registered
+2019-02-21T00:24:29.554Z - success: protocol app registered
+2019-02-21T00:24:29.554Z - success: protocol theme registered
+2019-02-21T00:24:29.554Z - success: protocol packages registered
+2019-02-21T00:24:29.554Z - success: protocol unpack registerred
+2019-02-21T00:24:29.554Z - success: protocol disable-commonjs registerred
+2019-02-21T00:24:29.758Z - normal: connected!
+2019-02-21T00:24:29.758Z - normal: Check project C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock
+2019-02-21T00:24:29.773Z - normal: Initializing project C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock
+2019-02-21T00:24:29.773Z - normal: Initializing Cocos2d
+2019-02-21T00:24:30.382Z - normal: Initializing Asset Database
+2019-02-21T00:24:30.492Z - success: protocol uuid registerred
+2019-02-21T00:24:30.492Z - success: protocol db registerred
+2019-02-21T00:24:30.492Z - success: protocol thumbnail registerred
+2019-02-21T00:24:30.492Z - normal: Loading editor/builtin packages
+2019-02-21T00:24:30.851Z - success: assets loaded
+2019-02-21T00:24:30.851Z - success: builder loaded
+2019-02-21T00:24:30.851Z - success: cocos-analytics loaded
+2019-02-21T00:24:30.867Z - success: console loaded
+2019-02-21T00:24:30.945Z - success: fb-instant-games loaded
+2019-02-21T00:24:30.945Z - success: hierarchy loaded
+2019-02-21T00:24:30.960Z - success: inspector loaded
+2019-02-21T00:24:30.960Z - success: keystore loaded
+2019-02-21T00:24:30.960Z - success: node-library loaded
+2019-02-21T00:24:30.976Z - success: package-asset loaded
+2019-02-21T00:24:30.976Z - success: preferences loaded
+2019-02-21T00:24:30.976Z - success: project-exporter loaded
+2019-02-21T00:24:31.007Z - success: project-importer loaded
+2019-02-21T00:24:31.007Z - success: project-settings loaded
+2019-02-21T00:24:31.023Z - success: ui-kit loaded
+2019-02-21T00:24:31.023Z - success: scene loaded
+2019-02-21T00:24:31.023Z - success: sprite-editor loaded
+2019-02-21T00:24:31.038Z - success: store loaded
+2019-02-21T00:24:31.038Z - success: timeline loaded
+2019-02-21T00:24:31.038Z - normal: Loading builtin packages
+2019-02-21T00:24:31.117Z - success: asset-db-debugger loaded
+2019-02-21T00:24:31.132Z - success: code-editor loaded
+2019-02-21T00:24:31.132Z - success: color-picker loaded
+2019-02-21T00:24:31.132Z - success: package-manager loaded
+2019-02-21T00:24:31.132Z - success: qqplay-adapter loaded
+2019-02-21T00:24:31.257Z - success: sdkbox loaded
+2019-02-21T00:24:31.288Z - success: tester loaded
+2019-02-21T00:24:31.288Z - success: ui-grid loaded
+2019-02-21T00:24:31.288Z - success: ui-kit-preview-extra loaded
+2019-02-21T00:24:31.288Z - success: ui-kit-preview loaded
+2019-02-21T00:24:31.304Z - success: ui-tree loaded
+2019-02-21T00:24:31.304Z - success: weapp-adapter loaded
+2019-02-21T00:24:34.163Z - normal: Loading packages
+2019-02-21T00:24:34.178Z - normal: Watching packages
+2019-02-21T00:24:35.163Z - normal: Run Application
+2019-02-21T00:24:38.836Z - success: preview server running at http://localhost:7456
+2019-02-21T00:24:52.115Z - warn: Please change the definition of property 'bgMusic' in class 'gameScene'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    bgMusic: cc.Texture2D,
+    // or:
+    bgMusic: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    bgMusic: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-02-21T00:24:52.173Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:24:52.178Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:34:04.383Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:34:04.387Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:34:53.514Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:34:53.517Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:35:24.721Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:35:24.722Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:37:54.184Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:37:54.187Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:39:15.183Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:39:15.198Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:40:02.616Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:40:02.617Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:40:47.279Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:40:47.279Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:41:50.980Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:41:50.980Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:42:42.105Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:42:42.105Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:43:13.399Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:43:13.399Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:43:33.340Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:43:33.347Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:44:24.523Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:44:24.530Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:45:32.999Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:45:33.001Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:46:11.439Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:46:11.445Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:48:24.727Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:48:24.729Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:49:53.224Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:49:53.227Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:50:46.616Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:50:46.617Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:52:19.714Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:52:19.715Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:53:31.044Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:53:31.048Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:56:27.930Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:56:27.942Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:57:17.720Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:57:17.721Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:58:06.130Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:58:06.135Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:59:52.029Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T00:59:52.031Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T01:04:18.065Z - normal: Introduced global variable while editing: i
+2019-02-21T01:04:18.067Z - normal: Introduced global variable while editing: l
+2019-02-21T01:04:18.700Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T01:04:18.712Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T01:05:50.728Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T01:05:50.731Z - warn: Use 'cc.Float' or 'cc.Integer' instead of 'cc.Number' please. 😂
+2019-02-21T01:11:44.492Z - failed: [db-task][delete] Failed to load meta C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs\globalAds.js.meta, message: EPERM: operation not permitted, open 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs\globalAds.js.meta'
+2019-02-21T01:11:44.504Z - failed: [db-task][delete] Failed to load meta C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs\wechatAds.js.meta, message: EPERM: operation not permitted, open 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs\wechatAds.js.meta'
+2019-02-21T01:13:19.120Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:14:01.502Z - warn: The SpriteFrame used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/New Sprite(Splash)"
+Missing uuid: "2a400113-3f46-46c9-92db-e1752614a7df"
+
+2019-02-21T01:14:01.878Z - warn: The Asset used by component "cc.Sprite" in scene "GameScene.fire" is missing. Detailed information:
+Node path: "Canvas/New Sprite(Splash)"
+Asset url: "db://assets/Scene/GameScene.fire"
+Missing uuid: "2a400113-3f46-46c9-92db-e1752614a7df"
+
+2019-02-21T01:14:31.908Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:15:09.117Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:15:20.980Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:16:14.555Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:16:25.326Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:16:40.265Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:16:51.993Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:17:22.238Z - failed: [db-task][watch-on] Exception  Error: EPERM: operation not permitted, scandir 'C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\assets\Script\abs'
+    at Object.fs.readdirSync (fs.js:914:18)
+    at Object.fs.readdirSync (ELECTRON_ASAR.js:602:28)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:288:41)
+    at GlobSync._readdirInGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:267:20)
+    at GlobSync._readdir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:276:17)
+    at GlobSync._processReaddir (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:137:22)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:132:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:380:10)
+    at GlobSync._process (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:130:10)
+    at GlobSync._processGlobStar (D:\AddSoftware\CocosCreator10\resources\app.asar\node_modules\fsnap\node_modules\glob\sync.js:383:10)
+2019-02-21T01:18:56.233Z - failed: load script [myNative] failed : Error: Cannot find module 'myNative'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (D:\AddSoftware\CocosCreator10\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (D:\AddSoftware\CocosCreator10\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (D:\AddSoftware\CocosCreator10\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\gameScene.js:1:351
+    at __define (C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\gameScene.js:7:16)
+    at C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\gameScene.js:440:13
+2019-02-21T01:18:56.246Z - failed: load script [crash] failed : Error: Cannot find module 'crash'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (D:\AddSoftware\CocosCreator10\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (D:\AddSoftware\CocosCreator10\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (D:\AddSoftware\CocosCreator10\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\hero.js:1:346
+    at __define (C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\hero.js:7:14)
+    at C:\Users\Keepmobi\Desktop\MyProject\snakeWithBlock\temp\quick-scripts\assets\Script\hero.js:499:13
+2019-02-21T01:18:56.445Z - warn: Script attached to "spriteNode" in prefab "hero.prefab" is missing or invalid. Detailed information:
+Node path: "hero/spriteNode"
+Asset url: "db://assets/Prefab/hero.prefab"
+Script UUID: "6b7c0ade-e05f-409b-b97e-86b61c962fde"
+Class ID: "6b7c0re4F9Am7l+hrYcli/e"
+
+2019-02-21T01:21:57.184Z - warn: Script attached to "spriteNode" in prefab "hero.prefab" is missing or invalid. Detailed information:
+Node path: "hero/spriteNode"
+Asset url: "db://assets/Prefab/hero.prefab"
+Script UUID: "6b7c0ade-e05f-409b-b97e-86b61c962fde"
+Class ID: "6b7c0re4F9Am7l+hrYcli/e"
+
+2019-02-21T01:25:21.750Z - warn: Script attached to "spriteNode" in prefab "hero.prefab" is missing or invalid. Detailed information:
+Node path: "hero/spriteNode"
+Asset url: "db://assets/Prefab/hero.prefab"
+Script UUID: "6b7c0ade-e05f-409b-b97e-86b61c962fde"
+Class ID: "6b7c0re4F9Am7l+hrYcli/e"
+
+2019-02-21T01:25:35.897Z - info: shutdown preview server

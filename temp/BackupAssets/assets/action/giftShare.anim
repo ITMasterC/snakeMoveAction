@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "giftShare",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.92,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.4,
+          "value": 7
+        },
+        {
+          "frame": 0.48,
+          "value": 10
+        },
+        {
+          "frame": 0.56,
+          "value": 7
+        },
+        {
+          "frame": 0.64,
+          "value": 10
+        },
+        {
+          "frame": 1.4,
+          "value": -7
+        },
+        {
+          "frame": 1.48,
+          "value": -10
+        },
+        {
+          "frame": 1.52,
+          "value": -7
+        },
+        {
+          "frame": 1.56,
+          "value": -10
+        },
+        {
+          "frame": 1.64,
+          "value": -7
+        },
+        {
+          "frame": 1.92,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.4,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 0.56,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.68,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 1.4,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.52,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 1.64,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.76,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

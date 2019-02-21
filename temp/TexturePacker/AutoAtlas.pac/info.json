@@ -1,0 +1,21 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/mac/Desktop/H5Projects/SnakeVsBlock/temp/TexturePacker/AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "/Users/mac/Desktop/H5Projects/SnakeVsBlock/assets/Resources/background.jpg",
+      "name": "background.jpg",
+      "size": "1156x2052"
+    },
+    {
+      "path": "/Users/mac/Desktop/H5Projects/SnakeVsBlock/assets/Resources/splash.png",
+      "name": "splash.png",
+      "size": "1156x2052"
+    }
+  ]
+}

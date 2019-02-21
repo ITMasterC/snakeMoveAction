@@ -1,0 +1,107 @@
+{
+  "cocos-analytics": {
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2",
+    "channel": "",
+    "enable": false,
+    "version": ""
+  },
+  "collision-matrix": [
+    [
+      false,
+      null,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 720,
+  "design-resolution-width": 480,
+  "excluded-modules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "MotionStreak",
+    "DragonBones",
+    "Chipmunk"
+  ],
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "body",
+    "hero",
+    "food",
+    "pillarPrefab",
+    "squareNode",
+    "side",
+    "eggs",
+    "prop"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 720,
+    "width": 480
+  },
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "start-scene": "current"
+}
